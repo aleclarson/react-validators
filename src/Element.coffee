@@ -1,5 +1,6 @@
 
-ReactElement = require "ReactElement"
+ReactElement = require "react/lib/ReactElement"
+
 Validator = require "Validator"
 wrongType = require "wrongType"
 
